@@ -1,6 +1,6 @@
 using System;
 
-// Main Branch:
+// palindrome Program 
 
 class Program
 {
