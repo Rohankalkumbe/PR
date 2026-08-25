@@ -28,7 +28,3 @@ class Program
         }
     }
 }
-
-// Dev 1 Code
-
-// Dev 1 Code change second time
